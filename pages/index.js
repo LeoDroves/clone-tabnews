@@ -1,7 +1,7 @@
 function Home() {
   return (
     <>
-      <h1>What's the opposite of these words?</h1>
+      <h1>What&apos;s the opposite of these words?</h1>
       <ul>
         <li>Always</li>
         <li>Coming</li>
